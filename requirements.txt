@@ -1,0 +1,5 @@
+python-dotenv==0.15.0
+opencv-contrib-python==4.5.1.48
+flask==1.1.2
+numpy==1.19.5
+matplotlib==3.3.4
